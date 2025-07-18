@@ -28,8 +28,8 @@ This is a machine learning-based desktop application that allows users to assess
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/alzheimers-risk-assessment.git
-cd alzheimers-risk-assessment
+git clone https://github.com/jannah-ayman/alzheimer
+cd alzheimer
 ```
 
 ### 2. Install Dependencies
